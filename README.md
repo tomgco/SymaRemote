@@ -1,0 +1,1 @@
+A fork of: http://www.arcfn.com/2009/08/multi-protocol-infrared-remote-library.html
